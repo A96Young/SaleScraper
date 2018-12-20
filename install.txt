@@ -1,0 +1,5 @@
+python -m pip install lxml
+python -m pip install requests
+python -m pip install io
+python -m pip install os
+python -m pip install datetime
